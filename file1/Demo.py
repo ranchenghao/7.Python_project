@@ -7,3 +7,5 @@ if __name__ == "__main__":
     print(test.jia(1, 2, 3, 4))
     print(test.jia(1, 2, 3, 4))
     print(test.jia(1, 2, 3, 4))
+    print(test.jia(1, 2, 3, 4))
+    print(test.jia(1, 2, 3, 4))
